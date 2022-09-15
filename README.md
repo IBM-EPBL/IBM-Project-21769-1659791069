@@ -10,3 +10,9 @@ The Bot should be able to answer queries regarding net banking.
 Services Used:
 
 IBM Watson Assistant
+![image](https://user-images.githubusercontent.com/82928294/190355241-407fdffd-f1d6-4677-9da8-944fd282be7a.png)
+
+Technical Architecture:
+![image](https://user-images.githubusercontent.com/82928294/190355423-bbe4c67e-6e00-4b35-9c88-2aa12270af3e.png)
+
+
