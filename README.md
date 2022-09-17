@@ -1,4 +1,3 @@
-# IBM-Project-21769-1659791069
 #AI based discourse for Banking Industry
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
 
