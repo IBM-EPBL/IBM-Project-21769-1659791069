@@ -1,4 +1,4 @@
-# AI based discourse for Banking Industry <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="70px">
+# AI based discourse for Banking Industry https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif
 
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
