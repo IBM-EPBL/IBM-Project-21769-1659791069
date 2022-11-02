@@ -28,4 +28,11 @@ Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/82928294/190864334-ce0740f3-2dc6-43e7-8265-a8ece9d211e6.png)
 
+#Team Members:
+Vishnu T
+Sampath V
+Pramodh Arjun P
+Jaswanth Reddy G
+Shri Ram A
+
  
