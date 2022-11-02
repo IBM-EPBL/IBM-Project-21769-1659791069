@@ -44,13 +44,10 @@ Technical Architecture:
 <h1>Langages used:</h1>
 
 <h2>Front End</h2>
-<img src="https://tinypic.host/images/2022/11/02/html.png" width="50px">
-<img src="https://tinypic.host/images/2022/11/02/css.png" width="50px">
-<img src="https://tinypic.host/images/2022/11/02/java-script.jpg" width="50px">
+<img src="https://tinypic.host/images/2022/11/02/html.png" width="50px"><img src="https://tinypic.host/images/2022/11/02/css.png" width="50px"><img src="https://tinypic.host/images/2022/11/02/java-script.jpg" width="50px">
 
 <h2>Back end</h2>
-<img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px">
-<img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px">
+<img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px">
 
  
 
