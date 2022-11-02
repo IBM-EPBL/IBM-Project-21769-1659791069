@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" width="50px"> AI based discourse for Banking Industry<img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif" width="40px"><br>Team ID:PNT2022TMID22390
 
-Team Members:
+<h1>Team Members:</h1>
 
 Vishnu T
 
