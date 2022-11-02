@@ -49,6 +49,7 @@ Technical Architecture:
 <h2>Back end</h2>
 <h3>Python</h3><img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"><h3>Structure Query Language</h3><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px">
 
+<h1><strong>Chatbot Preview</strong></h1>
  
 
 
