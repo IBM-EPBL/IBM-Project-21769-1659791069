@@ -4,15 +4,15 @@
 
 <h1>Team Members:</h1>
 
-Vishnu T
+Vishnu T            - Team Lead
 
-Sampath V
+Sampath V           - Team Member
 
-Pramodh Arjun P
+Pramodh Arjun P     - Team Member
 
-Jaswanth Reddy G
+Jaswanth Reddy G    - Team Member
 
-Shri Ram A
+Shri Ram A          - Team Member
 
 <h1>Objectives</h1>
 
