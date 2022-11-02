@@ -41,7 +41,7 @@ Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/82928294/190864334-ce0740f3-2dc6-43e7-8265-a8ece9d211e6.png)
 
-<h1>Langages used:</h1>
+<h1>Languages used:</h1>
 
 <h2>Front End</h2>
 <h3>Hyper Text Markup Language</h3><img src="https://tinypic.host/images/2022/11/02/html.png" width="50px"><h3>Cascading Style Sheet</h3> <img src="https://tinypic.host/images/2022/11/02/css.png" width="50px"><h3>Java Script</h3><img src="https://tinypic.host/images/2022/11/02/java-script.jpg" width="50px">
