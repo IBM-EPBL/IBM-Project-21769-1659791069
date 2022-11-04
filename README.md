@@ -51,9 +51,9 @@ Technical Architecture:
 
 <h1><strong>Chatbot Preview</strong></h1>
 
-<img src="https://tinypic.host/images/2022/11/04/Screenshot-4.png" height ="600" width="400px">
+<img src="https://tinypic.host/images/2022/11/04/Screenshot-4.png" height ="600" width="700px">
 
-<img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="400px">
+<img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="700px">
  
 
 
