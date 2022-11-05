@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="70px"> AI based discourse for Banking Industry <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif" width="60px"><br>Team ID:PNT2022TMID22390
 
-<img src="https://tinypic.host/images/2022/11/05/nasscom.png" height="90px" width="100px">    <img src="https://tinypic.host/images/2022/11/05/ict.png" height ="90" width="100px"> <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download-1.png" height ="90" width="100px">
+<img src="https://tinypic.host/images/2022/11/05/nasscom.png" height="90px" width="100px">    <img src="https://tinypic.host/images/2022/11/05/ict.png" height ="90" width="100px"> <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download-1.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download.png" height ="90" width="100px">
 
 
 <h1>Team Members:</h1>
