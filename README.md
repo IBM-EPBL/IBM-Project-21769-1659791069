@@ -7,15 +7,15 @@
 
 <h1>Team Members:</h1>
 
-Vishnu T            - Team Lead [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
+Vishnu T            - Team Lead [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead)
 
-Sampath V           - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
+Sampath V           - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Sampath)
 
-Pramodh Arjun P     - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
+Pramodh Arjun P     - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Pramodh%20Arjun)
 
-Jaswanth Reddy G    - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
+Jaswanth Reddy G    - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Jaswanth%20Reddy)
 
-Shri Ram A          - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
+Shri Ram A          - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram)
 
 <h1>Objectives</h1>
 
