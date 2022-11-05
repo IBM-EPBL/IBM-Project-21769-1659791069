@@ -7,15 +7,15 @@
 
 <h1>Team Members:</h1>
 
-Vishnu T            - Team Lead [Assignment Link]()
+Vishnu T            - Team Lead [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
 
-Sampath V           - Team Member [Assignment Link]()
+Sampath V           - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
 
-Pramodh Arjun P     - Team Member [Assignment Link]()
+Pramodh Arjun P     - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
 
-Jaswanth Reddy G    - Team Member [Assignment Link]()
+Jaswanth Reddy G    - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
 
-Shri Ram A          - Team Member [Assignment Link]()
+Shri Ram A          - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments)
 
 <h1>Objectives</h1>
 
@@ -47,29 +47,29 @@ Technical Architecture:
 
 ## PROJECT IDEATION:
 
-- EMPATHY MAP [View Document]()
-- LITERATURE SURVEY [View Document]()
-- PROBLEM STATEMENT [View Document]()
-- BRAINSTORMING IDEATION [View Document]()
+- EMPATHY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Empathy%20Map%20Canvas.pdf)
+- LITERATURE SURVEY [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Literature_Survey.pdf)
+- PROBLEM STATEMENT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/PROBLEM%20STATEMENT-%20AI%20BASED%20DISCOURSE%20BANKING%20INDUSTRY.pdf)
+- BRAINSTORMING IDEATION [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Brainstorming-Idea%20genetaion-Prioritization.pdf)
 
 ## PROJECT DESIGN PHASE-1:
 
--  PROPOSED SOLUTION [View Document]()
--  PROBLEM SOLUTION FIT [View Document]()
--  SOLUTION ARCHITECTURE [View Document]()
+-  PROPOSED SOLUTION [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/PROPOSED%20SOLUTION.pdf)
+-  PROBLEM SOLUTION FIT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Problem%20Solution%20Fit%20updated.pdf)
+-  SOLUTION ARCHITECTURE [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/SOLUTION%20ARCHITECTURE.pdf)
 
 ## PROJECT DESIGN PHASE-2:
 
--  DATA FLOW DIAGRAM [View Document]()
--  TECHNOLOGY ARCHITECTURE [View Document]()
--  FUNCTIONAL REQUIREMENTS [View Document]()
--  CUSTOMER JOURNEY MAP [View Document]()
--  TECHNOLOGY STACK [View Document]()
+-  DATA FLOW DIAGRAM [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/DATA%20FLOW%20DIAGRAM.pdf)
+-  TECHNOLOGY ARCHITECTURE [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/TECHNOLOGY%20ARCHITECTURE.pdf)
+-  FUNCTIONAL REQUIREMENTS [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Functional%20Requirements-1.pdf)
+-  CUSTOMER JOURNEY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/customer%20journey%20map.pdf)
 
 ## PROJECT PLANNING:
 
--  MILESTONE ACTIVITY CHART [View Document]()
--  SPRINT DELIVERY PLAN [View Document]()
+-  MILESTONE ACTIVITY CHART [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20Activity%20List.pdf)
+-  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
+-  JIRA Projects[View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Jira%20Projects)
 
 <h1>Languages used:</h1>
 
