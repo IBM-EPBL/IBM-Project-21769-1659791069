@@ -77,7 +77,7 @@ Technical Architecture:
 <h3>Hyper Text Markup Language</h3><img src="https://tinypic.host/images/2022/11/02/html.png" width="50px"><h3>Cascading Style Sheet</h3> <img src="https://tinypic.host/images/2022/11/02/css.png" width="50px"><h3>Java Script</h3><img src="https://tinypic.host/images/2022/11/02/java-script.jpg" width="50px">
 
 <h2>Back end</h2>
-<h3>Python</h3><img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"><h3>Structure Query Language</h3><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px">
+<h3>Python</h3><img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"> <img src="https://tinypic.host/images/2022/11/12/images.jpg" width="50px"><h3>Structure Query Language</h3><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px">
 
 <h1><strong>Chatbot Preview</strong></h1>
 
