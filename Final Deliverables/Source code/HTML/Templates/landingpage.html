@@ -1,0 +1,198 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="{% static 'css/landingpage.css' %}">
+    <style>
+        body{
+            background-attachment: fixed;
+            overflow: hidden;
+        
+        }
+        .banner{
+            width: 100%;
+            height: 100vh;
+            background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(static/img/background1.jpg);
+            background-size: fixed;
+            background-repeat: no-repeat;
+            background-position: fixed;
+            background-position: center;
+        
+            
+        
+        }
+        .navbar{
+            width: 85%;
+            margin: auto;
+            padding: 35px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .logo{
+            width: 120px;
+            cursor: pointer;
+            padding-left: -20px; 
+            background-color: black; 
+            background-blend-mode: multiply; 
+        }
+        
+        .navbar ul li{
+            list-style: none;
+            display: inline-block;
+            margin: 0 20px; 
+            
+        }
+        .navbar ul li a{
+            text-decoration: none;
+            color: palevioletred;
+            text-transform: uppercase;
+            font-family:fantasy;
+        
+        }
+        
+        .navbar ul li a ::after{
+            content: '';
+            height: 3px;
+            width: 100%;
+            background: 009688;
+            position: absolute;
+            left: 0;
+            bottom: -10;
+            transition: 0.05;
+        }
+        .navbar ul li a :hover::after{
+            width: 100%;
+        
+        }
+        .content{
+            width: 100%;
+            position:absolute;
+            top: 30%;
+            transform: translateY(-50);
+            text-align: center;
+            color: palevioletred;
+        }
+
+        .content1{
+            width: 100%;
+            position:absolute;
+            bottom: 50px;
+            transform: translateY(-50);
+            text-align: left;
+            color: gold;
+            padding-inline-start: 2px;   
+        }
+        
+        
+        .content1 h1{
+            width: 100%;
+            position:absolute;
+            bottom: 50px;
+            transform: translateY(-50);
+            text-align: center;
+            color: gold;
+            padding-inline-start: 2px;
+        }
+        
+        .content h1{
+            font-size: 50px;
+            margin-top: 90px;
+            line-height: 25px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        }
+        
+        button{
+            width: 300px;
+            padding: 20px 0;
+            text-align: center;
+            margin: 20px 10px;
+            border-radius: 25px;
+            font-weight: bold;
+            border: 2px solid #009688;
+            color: #fff;
+            cursor: pointer;
+            background: transparent;
+            font-size: larger ; 
+            position: relative;
+        
+        }
+        span{
+            background: #e6ebea;
+            width: 100%;
+            height: 100%;
+            border-radius: 25px;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            z-index: -12;
+            transition: 0.4s;
+            color: white;       
+        
+        }
+        button :hover span{
+            width: 100%;
+        }
+        button:hover{
+            border: none;
+        }
+        
+        
+    </style>
+
+</head>
+
+<body>
+    
+    <div class="banner">
+        <div class="navbar">
+            <img src="{% static 'static/img/logo.png'%}" class="logo" alt="">
+            <ul>
+                <li><a href="#" class="">Home</a</li>
+                <li><a href="#"class="">About</a></li>
+                <li><a href="#"class="">Services</a></li>
+                <li><a href="#"class="">Contact</a></li>
+                <li><a href="#"class="">Product</a></li>
+                
+            </ul>
+        </div>
+        <div class="content">
+            <h1>AI Based Discourse For Banking Industry</h1>
+            <p>“A year spent in artificial intelligence is enough to make one believe in God.”<span>—Alan Perlis</span></p>
+            <div>
+                <a href="{% url 'register' %}"><button type="button"><span></span>Join Us</button></a>
+            </div>
+        </div> 
+    <div>
+        <div class="content1"><h1>TEAM ID: PNT2022TMID22390</h1>
+            <ol>
+                <li class="one">VISHNU T</li>
+                <li class="two">SAMPATH V</li>
+                <li class="three">PRAMODH ARJUN P</li>
+                <li class="four">JASWANTH REDDY G</li>
+                <li>SHRI RAM A</li>
+            </ol>           
+        </div>       
+    </div>
+        
+    <script>
+        window.watsonAssistantChatOptions = {
+        integrationID: "77c74feb-c1a6-4cac-85ff-d19401c2d534", // The ID of this integration.
+        region: "eu-gb", // The region your integration is hosted in.
+        serviceInstanceID: "2b994459-1a5a-45a0-8955-89a6fd927161", // The ID of your service instance.
+        onLoad: function(instance) { instance.render(); }
+       };
+        setTimeout(function(){
+        const t=document.createElement('script');
+        t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+        document.head.appendChild(t);
+      });
+     </script>
+</body>
+
+</html>

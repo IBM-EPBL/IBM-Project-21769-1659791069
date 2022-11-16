@@ -1,0 +1,281 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Students bank</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="{% static '' %} img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="{% static 'https://fonts.gstatic.com' %}">
+    <link href="{% static 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@500;700&display=swap' %}" rel="stylesheet"> 
+ 
+    <!-- Icon Font Stylesheet -->
+    <link href="{% static 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css' %}" rel="stylesheet">
+    <link href="{% static 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css' %}" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="{% static 'lib/owlcarousel/assets/owl.carousel.min.css' %}" rel="stylesheet">
+    <link href="{% static 'lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css' %}" rel="stylesheet" />
+    <link href="{% static 'lib/lightbox/css/lightbox.min.css' %}" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="{% static 'css/style.css' %}" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Topbar Start -->
+    <div class="container-fluid px-5 d-none d-lg-block">
+        <div class="row gx-5">
+            <div class="col-lg-4 text-center py-3">
+                <div class="d-inline-flex align-items-center">
+                    <i class="bi bi-geo-alt fs-1 text-primary me-3"></i>
+                    <div class="text-start">
+                        <h6 class="text-uppercase fw-bold">Our Office</h6>
+                        <span>{{offices.off_email}}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center border-start border-end py-3">
+                <div class="d-inline-flex align-items-center">
+                    <i class="bi bi-envelope-open fs-1 text-primary me-3"></i>
+                    <div class="text-start">
+                        <h6 class="text-uppercase fw-bold">Email Us</h6>
+                        <span>info@example.com</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center py-3">
+                <div class="d-inline-flex align-items-center">
+                    <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
+                    <div class="text-start">
+                        <h6 class="text-uppercase fw-bold">Call Us</h6>
+                        <span>+012 345 6789</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+
+    <!-- Navbar Start -->
+    <div class="container-fluid sticky-top bg-dark bg-light-radial shadow-sm px-5 pe-lg-0">
+        <nav class="navbar navbar-expand-lg bg-dark bg-light-radial navbar-dark py-3 py-lg-0">
+            <a href="{% url 'index' %}" class="navbar-brand">
+                <h1 class="m-0 display-4 text-uppercase text-white"><i class="bi bi-building text-primary me-2"></i>BANKSTUD</h1>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav ms-auto py-0">
+                    <a href="{% url 'index' %}" class="nav-item nav-link">Home</a>
+                    <a href="{% url 'about' %}" class="nav-item nav-link">About</a>
+                    <a href="{% url 'services' %}" class="nav-item nav-link">Service</a>
+                    <a href="{% url 'products' %}" class="nav-item nav-link">Products</a>
+                    <a href="{% url 'contact' %}" class="nav-item nav-link">Contact</a>
+                    <a href="{% url 'logout' %}" class="nav-item nav-link">Logout</a>
+                    <a href="{% url 'register' %}" class="nav-item nav-link bg-primary text-white px-5 ms-3 d-none d-lg-block">Register<i class="bi bi-arrow-right"></i></a>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!-- Navbar End -->
+
+
+    <!-- Page Header Start -->
+    <div class="container-fluid page-header">
+        <h1 class="display-3 text-uppercase text-white mb-3">Project</h1>
+        <div class="d-inline-flex text-white">
+            <h6 class="text-uppercase m-0"><a href="{% url 'index' %}">Home</a></h6>
+            <h6 class="text-white m-0 px-3">/</h6>
+            <h6 class="text-uppercase text-white m-0">Project</h6>
+        </div>
+    </div>
+    <!-- Page Header Start -->
+    
+
+    <!-- Portfolio Start -->
+    <div class="container-fluid bg-light py-6 px-5">
+        <div class="text-center mx-auto mb-5" style="max-width: 600px;">
+            <h1 class="display-5 text-uppercase mb-4">Some Of Our <span class="text-primary">Popular</span> Dream Products</h1>
+        </div>
+        <div class="row gx-5">
+            <div class="col-12 text-center">
+                <div class="d-inline-block bg-dark-radial text-center pt-4 px-5 mb-5">
+                    <ul class="list-inline mb-0" id="portfolio-flters">
+                        <li class="btn btn-outline-primary bg-white p-2 active mx-2 mb-4" data-filter="*">
+                            <img src="{% static 'img/all.jpg' %}" style="width: 150px; height: 100px;">
+                            <div class="position-absolute top-0 start-0 end-0 bottom-0 m-2 d-flex align-items-center justify-content-center" style="background: rgba(4, 15, 40, .3);">
+                                <h6 class="text-white text-uppercase m-0">All</h6>
+                            </div>
+                        </li>
+                        <li class="btn btn-outline-primary bg-white p-2 mx-2 mb-4" data-filter=".first">
+                            <img src="{% static 'img/personalloan.jpg' %} " style="width: 150px; height: 100px;">
+                            <div class="position-absolute top-0 start-0 end-0 bottom-0 m-2 d-flex align-items-center justify-content-center" style="background: rgba(4, 15, 40, .3);">
+                                <h6 class="text-white text-uppercase m-0">Personal Loan</h6>
+                            </div>
+                        </li>
+                        <li class="btn btn-outline-primary bg-white p-2 mx-2 mb-4" data-filter=".second">
+                            <img src="{% static 'img/mortageloan.jpg' %}" style="width: 150px; height: 100px;">
+                            <div class="position-absolute top-0 start-0 end-0 bottom-0 m-2 d-flex align-items-center justify-content-center" style="background: rgba(4, 15, 40, .3);">
+                                <h6 class="text-white text-uppercase m-0">MortageLoan</h6>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item second">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="{% static 'img/smallbussiness.jpg' %}" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase">Small Businessloan</p>
+                        <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
+                    </a>
+                    <a class="portfolio-btn" href="{% static 'img/smallbussiness.jpg' %}" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="{% static 'img/educationloan.jpg' %}" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase">Education Loan</p>
+                        <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
+                    </a>
+                    <a class="portfolio-btn" href="{% static 'img/educationloan.jpg' %}" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="{% static 'img/carloan.jpg' %}" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase">Car Loan</p>
+                        <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, Chennai, india</span>
+                    </a>
+                    <a class="portfolio-btn" href="{% static 'img/carloan.jpg' %}" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item second">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="{% static 'autoloan.jpg' %}" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase"></p>
+                        <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, Chennai, India</span>
+                    </a>
+                    <a class="portfolio-btn" href="{% static 'img/autoloan.png' %}" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio End -->
+    
+
+    <!-- Footer Start -->
+    <div class="footer container-fluid position-relative bg-dark bg-light-radial text-white-50 py-6 px-5">
+        <div class="row g-5">
+            <div class="col-lg-6 pe-lg-5">
+                <a href="{% url 'index' %} " class="navbar-brand">
+                    <h1 class="m-0 display-4 text-uppercase text-white"><i class="bi bi-building text-primary me-2"></i>BANKSTUD</h1>
+                </a>
+                <p>Aliquyam sed elitr elitr erat sed diam ipsum eirmod eos lorem nonumy. Tempor sea ipsum diam  sed clita dolore eos dolores magna erat dolore sed stet justo et dolor.</p>
+                <p><i class="fa fa-map-marker-alt me-2"></i>123 Street, New York, USA</p>
+                <p><i class="fa fa-phone-alt me-2"></i>+012 345 67890</p>
+                <p><i class="fa fa-envelope me-2"></i>info@example.com</p>
+                <div class="d-flex justify-content-start mt-4">
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0" href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-6 ps-lg-5">
+                <div class="row g-5">
+                    <div class="col-sm-6">
+                        <h4 class="text-white text-uppercase mb-4">Quick Links</h4>
+                        <div class="d-flex flex-column justify-content-start">
+                            <a class="text-white-50 mb-2" href="{% url 'index' %}"><i class="fa fa-angle-right me-2"></i>Home</a>
+                            <a class="text-white-50 mb-2" href="{% url 'about' %}"><i class="fa fa-angle-right me-2"></i>About Us</a>
+                            <a class="text-white-50 mb-2" href="{% url 'services' %}"><i class="fa fa-angle-right me-2"></i>Our Services</a>
+                            <a class="text-white-50" href="{% url 'contact' %}"><i class="fa fa-angle-right me-2"></i>Contact Us</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <h4 class="text-white text-uppercase mb-4">Other Banking services</h4>
+                        <div class="d-flex flex-column justify-content-start">
+                            <a class="text-white-50 mb-2" href="https://www.hdfcbank.com/"><i class="fa fa-angle-right me-2"></i>HDFC</a>
+                            <a class="text-white-50 mb-2" href="https://www.icicibank.com/"><i class="fa fa-angle-right me-2"></i>ICICI</a>
+                            <a class="text-white-50 mb-2" href="https://www.axisbank.com/"><i class="fa fa-angle-right me-2"></i>AXIS</a>
+                            <a class="text-white-50 mb-2" href="https://www.kotak.com/811-savingsaccount-ZeroBalanceAccount/811/ahome2.action?Source=GoogleSEMiQ&banner=811-Search-Brand-All-Location-Desktop_Kotak-Exact&pubild=kotak&gclid=EAIaIQobChMIg5SstJaF-wIV3JpmAh1aJgmKEAAYASAAEgImXfD_BwE"><i class="fa fa-angle-right me-2"></i>KOTAK</a>
+                            <a class="text-white-50" href="https://www.equitasbank.com/ "><i class="fa fa-angle-right me-2"></i>EQUITAS</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <h4 class="text-white text-uppercase mb-4">Newsletter</h4>
+                        <div class="w-100">
+                            <div class="input-group">
+                                <input type="text" class="form-control border-light" style="padding: 20px 30px;" placeholder="Your Email Address"><button class="btn btn-primary px-4">Sign Up</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="{% static 'https://code.jquery.com/jquery-3.4.1.min.js' %} "></script>
+    <script src="{% static 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js' %}"></script>
+    <script src="{% static 'lib/easing/easing.min.js' %}"></script>
+    <script src="{% static 'lib/waypoints/waypoints.min.js' %}"></script>
+    <script src="{% static 'lib/owlcarousel/owl.carousel.min.js' %}"></script>
+    <script src="{% static 'lib/tempusdominus/js/moment.min.js' %}"></script>
+    <script src="{% static 'lib/tempusdominus/js/moment-timezone.min.js' %}"></script>
+    <script src="{% static 'lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js' %}"></script>
+    <script src="{% static 'lib/isotope/isotope.pkgd.min.js' %}"></script>
+    <script src="{% static 'lib/lightbox/js/lightbox.min.js' %}"></script>
+
+    <!-- Template Javascript -->
+    <script src="{% static 'js/main.js' %}"></script>
+    <script>
+        window.watsonAssistantChatOptions = {
+        integrationID: "77c74feb-c1a6-4cac-85ff-d19401c2d534", // The ID of this integration.
+        region: "eu-gb", // The region your integration is hosted in.
+        serviceInstanceID: "2b994459-1a5a-45a0-8955-89a6fd927161", // The ID of your service instance.
+        onLoad: function(instance) { instance.render(); }
+       };
+        setTimeout(function(){
+        const t=document.createElement('script');
+        t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+        document.head.appendChild(t);
+      });
+     </script>
+</body>
+
+</html>
