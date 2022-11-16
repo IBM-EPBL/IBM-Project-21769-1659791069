@@ -84,6 +84,12 @@ Technical Architecture:
 <img src="https://tinypic.host/images/2022/11/04/Screenshot-4.png" height ="600" width="700px">
 
 <img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="700px">
+
+![Logo](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
  
 
 
