@@ -71,6 +71,24 @@ Technical Architecture:
 -  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
 -  JIRA Projects[View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Jira%20Projects)
 
+## PROJECT DEVELOPMENT PHASE:
+
+-  SPRINT 1 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%201%20files/Sprint%20.1-updated.pdf) 
+-  SPRINT 2 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%202%20files/Sprint%202%20jira%20project.pdf)
+-  SPRINT 3 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%203%20files/Sprint-3.pdf)
+-  SPRINT 4 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%204%20files/Sprint%20-%2004.pdf)
+
+#### BURNDOWN CHART IMAGES:
+
+- SPRINT 1 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%201%20files/Sprint_1_Burndown_Chart.png)
+- SPRINT 2 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%202%20files/Sprint_2_Burndown_Chart.png)
+- SPRINT 3 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%203%20files/Sprint_3_Burndown_Chart.png)
+- SPRINT 4 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%204%20files/Sprint_4_Burndown_Chart.png)
+
+## FINAL DELIVARABLES:
+
+-  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Final%20Deliverables/Source%20code)
+
 <h1>Tool used:</h1>
 <h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
 
