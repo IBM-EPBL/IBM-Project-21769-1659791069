@@ -1,0 +1,120 @@
+body{
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR);
+    background-size: fixed;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-position: center;
+
+    
+
+}
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+    padding-left: -20px; 
+    background-color: black; 
+    background-blend-mode: multiply; 
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px; 
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: serif;
+
+}
+
+.navbar ul li a ::after{
+    content: '';
+    height: 3px;
+    width: 100%;
+    background: 009688;
+    position: absolute;
+    left: 0;
+    bottom: -10;
+    transition: 0.05;
+}
+.navbar ul li a :hover::after{
+    width: 100%;
+
+}
+.content{
+    width: 100%;
+    position:absolute;
+    top: 30%;
+    transform: translateY(-50);
+    text-align: center;
+    color: #fff;
+
+}
+.content h1{
+    font-size: 70px;
+    margin-top: 90px;
+    line-height: 25px;
+}
+
+button{
+    width: 300px;
+    padding: 20px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #009688;
+    color: #fff;
+    cursor: pointer;
+    background: transparent;
+    font-size: larger ; 
+    position: relative;
+
+}
+span{
+    background: #9bb4b2;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -12;
+    transition: 0.7s;       
+
+}
+button :hover span{
+    width: 100%;
+}
+button:hover{
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
