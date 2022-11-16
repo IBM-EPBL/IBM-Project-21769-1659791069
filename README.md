@@ -80,7 +80,7 @@ Technical Architecture:
 <h1><img src="https://tinypic.host/images/2022/11/02/html.png" width="50px"> <img src="https://tinypic.host/images/2022/11/02/css.png" width="50px" height="50px"> <img src="https://tinypic.host/images/2022/11/02/java-script.jpg" width="50px"></h1>
 
 <h2>Back end</h2>
-<h3>Python(Framework)</h3><img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"> <img src="https://tinypic.host/images/2022/11/12/images.jpg" height ="50" width="50px"><h3>Structure Query Language</h3><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px">
+<h3>Python(Framework)</h3><h1><img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"> <img src="https://tinypic.host/images/2022/11/12/images.jpg" height ="50" width="50px"><h3>Structure Query Language</h3><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px"></h1>
 
 <h1><strong>Chatbot Preview</strong></h1>
 
