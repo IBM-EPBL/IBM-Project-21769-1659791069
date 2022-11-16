@@ -85,11 +85,24 @@ Technical Architecture:
 
 <img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="700px">
 
+## CONTRIBUTION:
+
+![](https://svgur.com/i/nQ2.svg)
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
 ![Logo](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
 <div align="center">
  <h5> Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
+  </picture> in India | Vishnu T| Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala College Of Engineering | IBM </h5>
+
  
 
 
