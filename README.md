@@ -71,6 +71,9 @@ Technical Architecture:
 -  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
 -  JIRA Projects[View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Jira%20Projects)
 
+<h1>Tool used:</h1>
+<h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
+
 <h1>Languages used:</h1>
 
 <h2>Front End</h2>
