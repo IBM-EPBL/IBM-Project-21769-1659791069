@@ -106,6 +106,23 @@ Technical Architecture:
 
 <img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="700px">
 
+## FINAL OUTPUT:
+<img src="https://tinypic.host/i/S2VHQ" height ="600" width="700px">
+
+<img src="https://tinypic.host/i/S2QAX" height ="600" width="700px">
+
+<img src="https://tinypic.host/i/S2gYA" height ="600" width="700px">
+
+<img src="https://tinypic.host/i/S272i" height ="600" width="700px">
+
+<img src="https://tinypic.host/i/S2yvD" height ="600" width="700px">
+
+<img src="https://tinypic.host/i/S29bk" height ="600" width="700px">
+
+<img src="https://tinypic.host/i/S2OxK" height ="600" width="700px">
+
+
+
 ## CONTRIBUTION:
 
 ![](https://svgur.com/i/nQ2.svg)
