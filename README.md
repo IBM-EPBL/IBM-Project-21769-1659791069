@@ -88,7 +88,7 @@ Technical Architecture:
 ## FINAL DELIVARABLES:
 
 -  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Final%20Deliverables/Source%20code)
-
+-  PROJECT REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/PROJECT%20REPORT.pdf)
 <h1>Tool used:</h1>
 <h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
 
@@ -105,6 +105,12 @@ Technical Architecture:
 <img src="https://tinypic.host/images/2022/11/04/Screenshot-4.png" height ="600" width="700px">
 
 <img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="700px">
+
+## TESTING:
+
+-  TEST CASE REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/TESTING/Testcase%20Report.pdf)
+-  USER ACCEPTANCE INITIATION REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/TESTING/User%20Acceptance%20Initiation%20and%20Desgin.pdff)
+-  USER ACCEPTANCE EXECUTION REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/TESTING/UAT%20Report.pdf)
 
 
 
