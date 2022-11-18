@@ -4,7 +4,9 @@
 
 <img src="https://tinypic.host/images/2022/11/05/download.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/tn-skill.jpg" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/nasscom.png" height="90px" width="100px">     <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download-1.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/ict.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/smart-bridge.jpg" height ="90" width="100px"> 
 
-##PROJECT DEMONSTRATION
+<h1>PROJECT DEMONSTRATION<h1>
+ 
+ Click the image to watch our project demonstration
 
 
 [![Alt text](https://img.youtube.com/vi/CIXtmjViyAI/hqdefault.jpg)](https://youtu.be/CIXtmjViyAI)  
