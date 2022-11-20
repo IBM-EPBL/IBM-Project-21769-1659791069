@@ -12,7 +12,7 @@
 ## LICENSE
 ### [MIT LICENSE](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/LICENSE.md)
 
-### DEMO SITE 
+## DEMO SITE 
 ### CHATBOT BANKING SITE [CLICK HERE TO VIEW PROJECT WEBSITE 🤖](https://vishnuanjaneya.github.io/IBM-WATSON-BANKING-SITE/)
 
 Note: This is a demo site so the apperance may differ from the prototype in the demonstration video, you can compare & refer the team details as well as the chatbot features in the demo site and demonstration video.
