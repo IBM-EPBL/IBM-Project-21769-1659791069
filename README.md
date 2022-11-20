@@ -6,7 +6,7 @@
 
 #### CHATBOT BANKING SITE [CLICK HERE TO VIEW PROJECT WEBSITE 🤖](https://vishnuanjaneya.github.io/IBM-WATSON-BANKING-SITE/)
 
-Note: This is a demo site so the apperance may differ from the prototype in the demonstration video, you can compare & refer the team details in the demo site and demonstration video
+Note: This is a demo site so the apperance may differ from the prototype in the demonstration video, you can compare & refer the team details as well as the chatvot features in the demo site and demonstration video.
 
 <h2>PROJECT DEMONSTRATION:
 
