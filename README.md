@@ -18,7 +18,8 @@
 Note: This is a demo site so the apperance may differ from the prototype in the demonstration video, you can compare & refer the team details as well as the chatbot features in the demo site and demonstration video.
 
 ## PROJECT DEMONSTRATION:
-[![Alt text](https://img.youtube.com/vi/CIXtmjViyAI/hqdefault.jpg)](https://youtu.be/CIXtmjViyAI)  
+
+###[![Alt text](https://img.youtube.com/vi/CIXtmjViyAI/hqdefault.jpg)](https://youtu.be/CIXtmjViyAI)  
 [https://youtu.be/CIXtmjViyAI](https://youtu.be/CIXtmjViyAI)
 
 
