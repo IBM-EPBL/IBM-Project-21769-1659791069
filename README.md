@@ -2,13 +2,14 @@
 
 # <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="70px"> AI based discourse for Banking Industry <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif" width="60px">
 
-### TEAM ID : PNT2022TMID22390
+## TEAM ID : PNT2022TMID22390
 
 ### IBM-Project-21769-1659791069
 
 
 <img src="https://tinypic.host/images/2022/11/05/download.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/tn-skill.jpg" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/nasscom.png" height="90px" width="100px">     <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download-1.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/ict.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/smart-bridge.jpg" height ="90" width="100px"> 
 
+## LICENSE
 ### [MIT LICENSE](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/LICENSE.md)
 
 #### CHATBOT BANKING SITE [CLICK HERE TO VIEW PROJECT WEBSITE 🤖](https://vishnuanjaneya.github.io/IBM-WATSON-BANKING-SITE/)
