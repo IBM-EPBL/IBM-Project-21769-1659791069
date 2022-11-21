@@ -119,7 +119,8 @@ Technical Architecture:
 -  PROJECT REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/PROJECT%20REPORT.pdf)
 <h1>Tool used:</h1>
 <h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
-## 👨‍💻 Skills Required and Tech Stack
+
+ ## 👨‍💻 Skills Required and Tech Stack
 |  **Technology**  | **Reference Link**  |
 | ------------- | ------------- |
 |Html|[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)|
