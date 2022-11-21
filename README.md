@@ -138,7 +138,7 @@ Technical Architecture:
 <h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
 
  ## 👨‍💻 Skills Required and Tech Stack
-|  **Technology**  | **Reference Link**  |
+|  **Technology/Languages**  | **Reference Link**  |
 | ------------- | ------------- |
 |Html|[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)|
 |CSS|[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)|
