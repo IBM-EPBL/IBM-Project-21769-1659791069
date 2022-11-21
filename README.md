@@ -86,14 +86,14 @@ Technical Architecture:
 -  PROBLEM SOLUTION FIT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Problem%20Solution%20Fit%20updated.pdf)
 -  SOLUTION ARCHITECTURE [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/SOLUTION%20ARCHITECTURE.pdf)
 
-## PROJECT DESIGN PHASE-2:
+## 📅 PROJECT DESIGN PHASE-2:
 
 -  DATA FLOW DIAGRAM [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/DATA%20FLOW%20DIAGRAM.pdf)
 -  TECHNOLOGY ARCHITECTURE [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/TECHNOLOGY%20ARCHITECTURE.pdf)
 -  FUNCTIONAL REQUIREMENTS [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Functional%20Requirements-1.pdf)
 -  CUSTOMER JOURNEY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/customer%20journey%20map.pdf)
 
-## PROJECT PLANNING:
+## 📅 PROJECT PLANNING:
 
 -  MILESTONE ACTIVITY CHART [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20Activity%20List.pdf)
 -  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
@@ -106,7 +106,7 @@ Technical Architecture:
 -  SPRINT 3 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%203%20files/Sprint-3.pdf)
 -  SPRINT 4 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%204%20files/Sprint%20-%2004.pdf)
 
-#### BURNDOWN CHART IMAGES:
+## 📅 BURNDOWN CHART IMAGES:
 
 - SPRINT 1 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%201%20files/Sprint_1_Burndown_Chart.png)
 - SPRINT 2 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%202%20files/Sprint_2_Burndown_Chart.png)
@@ -140,7 +140,7 @@ Technical Architecture:
 
 
 
-## CONTRIBUTION:
+## 🌐 CONTRIBUTION:
 
 ![](https://svgur.com/i/nQ2.svg)
 
