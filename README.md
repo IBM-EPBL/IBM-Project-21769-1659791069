@@ -80,7 +80,7 @@ Technical Architecture:
 - PROBLEM STATEMENT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/PROBLEM%20STATEMENT-%20AI%20BASED%20DISCOURSE%20BANKING%20INDUSTRY.pdf)
 - BRAINSTORMING IDEATION [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Brainstorming-Idea%20genetaion-Prioritization.pdf)
 
-##📅 PROJECT DESIGN PHASE-1:
+## 📅 PROJECT DESIGN PHASE-1:
 
 -  PROPOSED SOLUTION [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/PROPOSED%20SOLUTION.pdf)
 -  PROBLEM SOLUTION FIT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Problem%20Solution%20Fit%20updated.pdf)
@@ -113,7 +113,7 @@ Technical Architecture:
 - SPRINT 3 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%203%20files/Sprint_3_Burndown_Chart.png)
 - SPRINT 4 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%204%20files/Sprint_4_Burndown_Chart.png)
 
-##🚩 FINAL DELIVARABLES:
+## 🚩 FINAL DELIVARABLES:
 
 -  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Final%20Deliverables/Source%20code)
 -  PROJECT REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/PROJECT%20REPORT.pdf)
