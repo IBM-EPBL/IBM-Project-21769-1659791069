@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="70px"> AI based discourse for Banking Industry <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif" width="60px">
 
-## TEAM ID : PNT2022TMID22390
+##                                TEAM ID : PNT2022TMID22390
 
 ### IBM-Project-21769-1659791069
 
