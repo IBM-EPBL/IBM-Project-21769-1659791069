@@ -38,7 +38,7 @@ Jaswanth Reddy G    - Team Member [Assignment Link](https://github.com/IBM-EPBL/
 
 Shri Ram A          - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram)
 
-<h1>Objectives</h1>
+<h1>DESCRIPTION</h1>
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
 
