@@ -9,6 +9,12 @@
 
 <img src="https://tinypic.host/images/2022/11/05/download.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/tn-skill.jpg" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/nasscom.png" height="90px" width="100px">     <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download-1.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/ict.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/smart-bridge.jpg" height ="90" width="100px"> 
 
+## 👩‍🏫 Mentor's Details
+|  **Mentor's**  | **Name**  |
+| ------------- | ------------- |
+| **Industry Mentor(s)** | Durga Prasad | 
+| **Faculty Mentor(s)** | S.Vinod | 
+
 ## LICENSE
 ### [MIT LICENSE](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/LICENSE.md)
 
@@ -26,7 +32,7 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
 
 
 
-<h1>Team Members:</h1>
+<h1> 🧑‍🤝‍🧑 Team Members 📝:</h1>
 
 Vishnu T            - Team Lead [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead)
 
@@ -38,7 +44,8 @@ Jaswanth Reddy G    - Team Member [Assignment Link](https://github.com/IBM-EPBL/
 
 Shri Ram A          - Team Member [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram)
 
-<h1>DESCRIPTION</h1>
+## ℹ️ Project Detail
+In this project, we will be building a chatbot using Watson's assistant that helps banks for automating business processes such as customer service.
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
 
@@ -66,14 +73,14 @@ Technical Architecture:
 ![image](https://user-images.githubusercontent.com/82928294/190864334-ce0740f3-2dc6-43e7-8265-a8ece9d211e6.png)
 
 
-## PROJECT IDEATION:
+##  🎯 PROJECT IDEATION:
 
 - EMPATHY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Empathy%20Map%20Canvas.pdf)
 - LITERATURE SURVEY [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Literature_Survey.pdf)
 - PROBLEM STATEMENT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/PROBLEM%20STATEMENT-%20AI%20BASED%20DISCOURSE%20BANKING%20INDUSTRY.pdf)
 - BRAINSTORMING IDEATION [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Ideation%20phase/Brainstorming-Idea%20genetaion-Prioritization.pdf)
 
-## PROJECT DESIGN PHASE-1:
+##📅 PROJECT DESIGN PHASE-1:
 
 -  PROPOSED SOLUTION [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/PROPOSED%20SOLUTION.pdf)
 -  PROBLEM SOLUTION FIT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Problem%20Solution%20Fit%20updated.pdf)
@@ -92,7 +99,7 @@ Technical Architecture:
 -  SPRINT DELIVERY PLAN [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan.pdf)
 -  JIRA Projects[View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Jira%20Projects)
 
-## PROJECT DEVELOPMENT PHASE:
+## 🔧⚙️ PROJECT DEVELOPMENT PHASE:
 
 -  SPRINT 1 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%201%20files/Sprint%20.1-updated.pdf) 
 -  SPRINT 2 [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%202%20files/Sprint%202%20jira%20project.pdf)
@@ -106,26 +113,23 @@ Technical Architecture:
 - SPRINT 3 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%203%20files/Sprint_3_Burndown_Chart.png)
 - SPRINT 4 BURNDOWN CHART [View Image](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Project%20Development%20Phase/Sprint%204%20files/Sprint_4_Burndown_Chart.png)
 
-## FINAL DELIVARABLES:
+##🚩 FINAL DELIVARABLES:
 
 -  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Final%20Deliverables/Source%20code)
 -  PROJECT REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/PROJECT%20REPORT.pdf)
 <h1>Tool used:</h1>
 <h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
-
-<h1>Languages used:</h1>
-
-<h2>Front End</h2>
-<h1><img src="https://tinypic.host/images/2022/11/02/html.png" width="50px"> <img src="https://tinypic.host/images/2022/11/02/css.png" width="50px" height="50px"> <img src="https://tinypic.host/images/2022/11/02/java-script.jpg" width="50px"></h1>
-
-<h2>Back end</h2>
-<h3>Python(Framework)</h3><h1><img src="https://tinypic.host/images/2022/11/02/flask.png" width="50px"> <img src="https://tinypic.host/images/2022/11/12/images.jpg" height ="50" width="50px"><h3>Structure Query Language(Database)</h3><img src="https://tinypic.host/images/2022/11/02/sql.jpg" width="50px"></h1>
-
-<h1><strong>Chatbot Preview</strong></h1>
-
-<img src="https://tinypic.host/images/2022/11/04/Screenshot-4.png" height ="600" width="700px">
-
-<img src="https://tinypic.host/images/2022/11/04/Screenshot-5.png" height ="600" width="700px">
+## 👨‍💻 Skills Required and Tech Stack
+|  **Technology**  | **Reference Link**  |
+| ------------- | ------------- |
+|Html|[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)|
+|CSS|[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)|
+|Python|[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.w3schools.com/python/)|
+|Flask |[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://www.tutorialspoint.com/flask/index.htm)|
+|NLP |[![](https://dabuttonfactory.com/button.png?t=NLP&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=00aeff)](https://www.ibm.com/cloud/learn/natural-language-processing#:~:text=Natural%20language%20processing%20(NLP)%20refers,same%20way%20human%20beings%20can.)|
+|IBM Cloud| [![](https://dabuttonfactory.com/button.png?t=IBM+Cloud&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=round&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/cloud-ibm/tutorials/)|
+|IBM Watson Assistant|[![](https://dabuttonfactory.com/button.png?t=IBM+Watson+Assistant&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/watson-assistant/tutorials/)|
+|Deep Learning |[![](https://dabuttonfactory.com/button.png?t=Deep+Learning&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0089ff)](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=builder-deep-learning-experiment-tutorial)|
 
 ## TESTING:
 
