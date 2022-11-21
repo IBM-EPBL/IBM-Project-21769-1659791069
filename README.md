@@ -49,7 +49,7 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
 
 
 
-<h1> 🧑‍ASSIGNMENTS 📝:</h1>
+<h1> 📝ASSIGNMENTS :</h1>
 
 -Vishnu T - Team Lead [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead) 
 
