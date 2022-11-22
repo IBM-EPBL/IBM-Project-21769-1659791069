@@ -88,6 +88,9 @@ Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/82928294/190864334-ce0740f3-2dc6-43e7-8265-a8ece9d211e6.png)
 
+<h1>Tool used:</h1>
+<h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
+
  ## 👨‍💻 Skills Required and Tech Stack
 |  **Technology/Languages**  | **Reference Link**  |
 | ------------- | ------------- |
@@ -102,6 +105,7 @@ Technical Architecture:
 |IBM Cloud| [![](https://dabuttonfactory.com/button.png?t=IBM+Cloud&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=round&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/cloud-ibm/tutorials/)|
 |IBM Watson Assistant|[![](https://dabuttonfactory.com/button.png?t=IBM+Watson+Assistant&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0530ad)](https://developer.ibm.com/components/watson-assistant/tutorials/)|
 |Deep Learning |[![](https://dabuttonfactory.com/button.png?t=Deep+Learning&f=Open+Sans-Bold&ts=10&tc=fff&hp=20&vp=10&c=11&bgt=unicolored&bgc=0089ff)](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=builder-deep-learning-experiment-tutorial)|
+
 
 
 
@@ -149,8 +153,7 @@ Technical Architecture:
 
 -  SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Final%20Deliverables/Source%20code)
 -  PROJECT REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/blob/main/Final%20Deliverables/PROJECT%20REPORT.pdf)
-<h1>Tool used:</h1>
-<h3>VS CODE</h3><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50px">
+
 
 
 ## TESTING:
