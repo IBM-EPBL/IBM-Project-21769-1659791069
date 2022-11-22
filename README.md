@@ -50,16 +50,13 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
 
 
 <h1> 📝ASSIGNMENTS :</h1>
-
-- Vishnu T - Team Lead [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead) 
-
-- Sampath V - Team Member 1 [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Sampath) 
-
-- Pramodh Arjun P - Team Member 2 [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Pramodh%20Arjun) 
-
-- Jaswanth Reddy G - Team Member 3 [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Jaswanth%20Reddy) 
-
-- Shri Ram A - Team Member 4 [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram) 
+  |  **Member**  | **Assignment Link**  |
+  | ------------- | ------------- |
+  | Vishnu T Team Lead | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead) |
+  |Sampath V Team Member 1 | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Sampath) | 
+  |Pramodh Arjun P Team Member 2 | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Pramodh%20Arjun) |
+  |Jaswanth Reddy G Team Member 3 | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Jaswanth%20Reddy) |
+  |Shri Ram A Team Member 4 | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram) |
 
 ## ℹ️ Project Detail
 In this project, we will be building a chatbot using Watson's assistant that helps banks for automating business processes such as customer service.
