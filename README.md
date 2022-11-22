@@ -60,7 +60,7 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
   |SHRIRAM A  (TM4) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram)|
 
 
-## ℹ️ Project Detail
+## ℹ️ Project Details:
 In this project, we will be building a chatbot using Watson's assistant that helps banks for automating business processes such as customer service.
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
