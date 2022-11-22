@@ -38,10 +38,10 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
 | **Batch Name** | B1-1M3E |
 | **Team Size** | 5 | 
 | **Team Leader** | Vishnu T | 
-| **Team member** | Sampath V |
-| **Team member** | Pramodh Arjun P |
-| **Team member** | Jaswanth G| 
-| **Team member** | Shri Ram A | 
+| **Team member 1** | Sampath V |
+| **Team member 2** | Pramodh Arjun P |
+| **Team member 3** | Jaswanth G| 
+| **Team member 4** | Shri Ram A | 
 | **Degree** | Bachelor of Engineering |
 | **Branch** | Computer Science Engineering |
 | **College** | Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala College Of Engineering |
