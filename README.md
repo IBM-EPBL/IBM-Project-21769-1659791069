@@ -53,11 +53,11 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
   
   |  **Member**  | **Assignment Link**  |
   | ------------- | ------------- |
-  |VISHNU T (TL) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead)) |
-  |SAMPATH V (TM1) | [Assignment Link ](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Sampath)) |
-  |PRAMODH ARJUN P(TM2) | [Assignment Link ](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Pramodh%20Arjun))) |
-  |JASWANTH G  (TM3) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Jaswanth%20Reddy))|
-  |SHRIRAM A  (TM4) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram))|
+  |VISHNU T (TL) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Vishnu%20T-Team%20Lead)|
+  |SAMPATH V (TM1) | [Assignment Link ](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Sampath)|
+  |PRAMODH ARJUN P(TM2) | [Assignment Link ](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Pramodh%20Arjun)|
+  |JASWANTH G  (TM3) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Jaswanth%20Reddy)|
+  |SHRIRAM A  (TM4) | [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-21769-1659791069/tree/main/Assignments/Shri%20Ram)|
 
 
 ## ℹ️ Project Detail
