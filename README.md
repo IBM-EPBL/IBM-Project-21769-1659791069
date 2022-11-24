@@ -32,7 +32,8 @@ Note: This is a demo site so the apperance may differ from the prototype in the 
 ## 🧑‍🤝‍🧑 Team Details
 |  **Team**  | **Details**  |
 | ------------- | ------------- |
-| **Domain** | Artificial Intelligence |  
+| **Domain** | Artificial Intelligence |
+| **Level** | Advanced |
 | **Github ID** | IBM-Project-21769-1659791069 |
 | **Team ID** | PNT2022TMID22390 |  
 | **Batch Name** | B1-1M3E |
